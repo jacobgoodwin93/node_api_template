@@ -16,7 +16,7 @@ This is a simple node api starter template
 
 1) Clone the repository into a directory on your machine
 	
-		git clone enter_git_repo_url_here
+		git clone https://github.com/jacobgoodwin93/node_api_template.git
 		
 2) Navigate to the directory with command line and run the following to download all necessary node modules:
 
